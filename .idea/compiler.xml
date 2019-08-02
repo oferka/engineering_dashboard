@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serializer" />
+        <module name="model" />
+        <module name="randomizer" />
+        <module name="es-loader" />
+        <module name="utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exporter" target="10" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="es-loader" options="-parameters" />
+      <module name="exporter" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="randomizer" options="-parameters" />
+      <module name="serializer" options="-parameters" />
+      <module name="utils" options="-parameters" />
+    </option>
+  </component>
+</project>

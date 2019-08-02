@@ -1,0 +1,85 @@
+kpiName,kpiDescription,objectiveName,objectiveDescription,goalName,goalDescription,themeName,themeDescription,dashboardName,dashboardDescription,organizationName,organizationDescription,departmentName,departmentDescription,timePeriod,value
+Problem Statement,Quality of problem statement: How clear is the problem that we are trying to solve? do we know and understand the persona who is suffering from this problem? do we know what percentage of our customers are suffering from this problem? (0-100). ,Scoping,Scoping,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,60
+MVP definition,How good are we in defining MVP for new features? are we over engineering new features and as a result taking long time to release a new feature? are we releasing half baked and non usable features? ,Scoping,Scoping,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,50
+Success Criteria,Do we have well defined success criterias for features? Do we have the required data to track these success criterias? is it clear who is responsible to track these success criterias and what should be done in case we don't acheive them?,Scoping,Scoping,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,40
+R&D Ownership,R&D Ownership,Ownership,Ownership,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,50
+Product Ownership,Product Ownership,Ownership,Ownership,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,75
+Level Of Details,Level Of Details,Design,Design,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,12
+Mockups,Mockups,Design,Design,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,28
+PM 2 R&D Alignment,PM 2 R&D Alignment,Design,Design,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,41
+Accuracy,Accuracy,Effort Estimation,Effort Estimation,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,38
+Time 2 Get,Time 2 Get,Effort Estimation,Effort Estimation,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,99
+Risk Mng,Risk Mng,Project Plan,Project Plan,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,7
+Dependency Mng,Dependency Mng,Project Plan,Project Plan,Version Planning,Version Planning,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,95
+Coverage,Coverage,Test Automation,Test Automation,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,35
+Speed,Speed,Test Automation,Test Automation,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,70
+Reliability,Reliability,Test Automation,Test Automation,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,3
+Maintenance Cost,Maintenance Cost,Test Automation,Test Automation,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,40
+Availability,Availability,Test Environements,Test Environements,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,75
+Reliability,Reliability,Test Environements,Test Environements,CI,CI,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,84
+Coverage,Coverage,Regression,Regression,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,16
+Reliability,Reliability,Regression,Regression,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,17
+Speed,Speed,Regression,Regression,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,13
+Required Effort,Required Effort,Regression,Regression,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,79
+Reliability,Reliability,Deployment,Deployment,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,69
+Speed,Speed,Deployment,Deployment,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,18
+Required Effort,Required Effort,Deployment,Deployment,CD,CD,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,60
+Delievered Features,Delievered Features,Functionality,Functionality,Visibility,Visibility,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,82
+Planned Features,Planned Features,Functionality,Functionality,Visibility,Visibility,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,92
+Resource Allocation,Resource Allocation,Current Status,Current Status,Visibility,Visibility,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,66
+Work In Progress ,Work In Progress ,Current Status,Current Status,Visibility,Visibility,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,55
+Data Availability,Data Availability,New Features,New Features,Usage Tracking,Usage Tracking,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,95
+Track and Take Action,Track and Take Action,New Features,New Features,Usage Tracking,Usage Tracking,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,34
+Data Availability,Data Availability,Trends,Trends,Usage Tracking,Usage Tracking,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,41
+Track and Take Action,Track and Take Action,Trends,Trends,Usage Tracking,Usage Tracking,Process,Process,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,51
+Manager to IC Ratio,Manager to IC Ratio,Org Structure,Org Structure,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,61
+Number of levels,Number of levels,Org Structure,Org Structure,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,71
+Succesor Plan,Succesor Plan,Org Structure,Org Structure,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,81
+Aligned with Bussines,Aligned with Bussines,Org Structure,Org Structure,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,91
+Load Distribution,Load Distribution,Team Work,Team Work,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,52
+Effective Team Meetings,Effective Team Meetings,Team Work,Team Work,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,62
+Mentoring,Mentoring,Team Work,Team Work,Employee Productivity,Employee Productivity,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,72
+Feedback,Feedback,Personal Growth,Personal Growth,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,82
+Career Path,Career Path,Personal Growth,Personal Growth,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,53
+Learning & Development,Learning & Development,Personal Growth,Personal Growth,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,63
+Individual Recognition,Individual Recognition,Recognition,Recognition,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,73
+Team Recognition,Team Recognition,Recognition,Recognition,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,83
+Alignment with Benchmark,Alignment with Benchmark,Compensation,Compensation,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,93
+Top Talent Compensation,Top Talent Compensation,Compensation,Compensation,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,54
+Identify Early,Identify Early,Flight Risk Analysis,Flight Risk Analysis,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,64
+Taking Action,Taking Action,Flight Risk Analysis,Flight Risk Analysis,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,74
+Proud to Work @WalkMe,Proud to Work @WalkMe,Employee Engagement,Employee Engagement,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,84
+Recommend WalkMe,Recommend WalkMe,Employee Engagement,Employee Engagement,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,94
+WalkMe Motivates Me,WalkMe Motivates Me,Employee Engagement,Employee Engagement,Talent Management,Talent Management,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,55
+Knowledge Matrix,Knowledge Matrix,Knowledge Sharing,Knowledge Sharing,Communication & Collaboration ,Communication & Collaboration ,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,65
+Cross Team Knowledge Sharing,Cross Team Knowledge Sharing,Knowledge Sharing,Knowledge Sharing,Communication & Collaboration ,Communication & Collaboration ,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,75
+All Hands Meetings,All Hands Meetings,Knowledge Sharing,Knowledge Sharing,Communication & Collaboration ,Communication & Collaboration ,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,85
+Quantity,Quantity,Sourcing,Sourcing,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,95
+Quality,Quality,Sourcing,Sourcing,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,56
+Direct Manager,Direct Manager,Interview Process,Interview Process,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,66
+Senior Manager,Senior Manager,Interview Process,Interview Process,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,66
+HR Interview,HR Interview,Interview Process,Interview Process,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,66
+Speed,Speed,Job Offer & Signing,Job Offer & Signing,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,76
+Success Rate,Success Rate,Job Offer & Signing,Job Offer & Signing,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,76
+Rampup Time,Rampup Time,Onboarding,Onboarding,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,86
+Rampup Experience,Rampup Experience,Onboarding,Onboarding,Recruitement,Recruitement,People,People,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Scope,Scope,Predictability,Predictability,New Features,New Features,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Timeline,Timeline,Predictability,Predictability,New Features,New Features,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Escaped Defects,Escaped Defects,Quality,Quality,New Features,New Features,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Kpi 1,Kpi 1,Availability,Availability,System Health,System Health,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Kpi 2,Kpi 2,Performance,Performance,System Health,System Health,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Kpi 3,Kpi 3,Security,Security,System Health,System Health,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Time 2 Response,Time 2 Response,Communication,Communication,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Collaboartion with T3/TAM,Collaboartion with T3/TAM,Communication,Communication,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Time 2 Resolution,Time 2 Resolution,Resolution,Resolution,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Quality,Quality,Resolution,Resolution,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Support enablemenet ,Support enablemenet ,Reduce Support Load,Reduce Support Load,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Troubleshooting tools,Troubleshooting tools,Reduce Support Load,Reduce Support Load,Handling Support Tickets,Handling Support Tickets,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+System Monitoring,System Monitoring,Monitoring,Monitoring,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Application Monitoring,Application Monitoring,Monitoring,Monitoring,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Availability,Availability,On Call Duty Mng,On Call Duty Mng,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Load Distribution,Load Distribution,On Call Duty Mng,On Call Duty Mng,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Accuracy,Accuracy,Troubleshooting,Troubleshooting,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Speed,Speed,Troubleshooting,Troubleshooting,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Accuracy,Accuracy,Resolution,Resolution,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
+Speed,Speed,Resolution,Resolution,Handling Production Issues,Handling Production Issues,Delivery,Delivery,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,WalkMe Eng,Q2 2019,96
